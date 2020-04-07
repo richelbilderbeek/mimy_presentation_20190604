@@ -7,13 +7,13 @@ autosize: true
 
 <style>
 .reveal h2 {
-   font-size: 3.0em
+   font-size: 2.0em
 }
 .reveal h3 {
-   font-size: 2.5em
+   font-size: 1.5em
 }
 .reveal li {
-   font-size: 1.25em
+   font-size: 1.00em
 }
 
 .reveal table {
@@ -260,8 +260,8 @@ Bilderbeek, Richèl JC, and Rampal S. Etienne. "babette: BEAUti 2, BEAST 2 and T
 ***
 
 ![](richel.png)|![](rampal.png)
----|---
-Bilderbeek|Etienne
+---------------|---------------
+Bilderbeek     |Etienne
 
 Method
 ========================================================
